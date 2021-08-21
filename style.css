@@ -1,0 +1,15 @@
+#title{
+    font-size: 25px !important;
+    border: 5px double;
+    border-color: firebrick;
+    background-image: linear-gradient(to bottom right, red 25%, orange 50%, yellow 75%, green 100%);
+}
+
+.btn-primary{
+    width: 25%;
+}
+
+canvas{
+    border: 3px groove blue;
+    border-radius: 10px;
+}
